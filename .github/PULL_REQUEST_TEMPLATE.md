@@ -22,5 +22,5 @@
 
 - [ ] I confirm this content is suitable for public publication.
 - [ ] I used placeholders and checked that the change contains no secrets,
-  personal information or internal operational configuration.
+      personal information or internal operational configuration.
 - [ ] I did not copy code or configuration from an internal repository.
