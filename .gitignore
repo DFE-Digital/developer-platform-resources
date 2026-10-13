@@ -1,0 +1,24 @@
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.tmp
+
+# Local environment files and private keys
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Infrastructure-generated state and working directories
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
+
+# Common generated output
+coverage/
+dist/
+node_modules/
